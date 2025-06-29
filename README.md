@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<--
 [![samwisecode Nuxter profile](https://nuxters.nuxt.com/card/samwisecode/og.png)](https://nuxters.nuxt.com/samwisecode)
+-->
