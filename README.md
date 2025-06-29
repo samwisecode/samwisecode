@@ -15,8 +15,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-<--
-[![samwisecode Nuxter profile](https://nuxters.nuxt.com/card/samwisecode/og.png)](https://nuxters.nuxt.com/samwisecode)
+- [![samwisecode Nuxter profile](https://nuxters.nuxt.com/card/samwisecode/og.png)](https://nuxters.nuxt.com/samwisecode)
 -->
