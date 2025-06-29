@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm Sam 🙂 a developer mainly focused on Nuxt & Vue at the moment.
+
 <!--
 **samwisecode/samwisecode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
